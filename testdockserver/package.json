@@ -1,0 +1,15 @@
+{
+  "name": "testdockserver",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.3",
+    "redis": "^4.6.13"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
